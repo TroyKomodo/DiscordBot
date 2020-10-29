@@ -1,0 +1,9 @@
+{
+    "discord": {
+        "token": "",
+        "prefix": "$"
+    },
+    "owners": [
+        "your_discord_id"
+    ]
+}
