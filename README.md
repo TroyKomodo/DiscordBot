@@ -1,3 +1,8 @@
+install dependencies
+```bash
+$ yarn
+```
+
 to start the developement version
 ```bash
 $ yarn dev
